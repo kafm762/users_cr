@@ -1,1 +1,0 @@
-# This project is a combination of MYSQL, python, HTML and bootstrap that creates a tableof users. When pressing the 'add a user' button it redirects you to a page where you can type in a first name, last name, and email and when you submit it, it redirects you back into the main table with the name and email you added inserted into the table.
